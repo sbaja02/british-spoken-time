@@ -1,16 +1,3 @@
-**Problem Statement:**
-In British English, the expression "half [hour]" is used colloquially to denote 30 minutes past the hour. For example, " half ten" means 10:30 
-(without specifying morning or night). This is itself an abbreviation of an older colloquialism, "half 'past' ten". The abbreviation can cause misunderstanding with 
-non-British English speakers as this contrasts with many European languages, where the same type of expression denotes 30 minutes before the hour. 
-For example, in Czech, půl desáté ("half ten") means 9:30. Another example, in German, halb zehn ("half ten") means 9:30. 
-
-**Solution**
-The solution takes input in HH:MM format and output is in words.
-For example, if input is 4:15, output will be qaurter past four.
-
-**Prerequisite to run this project**
-a. Atleast Java 8 
-b. Maven should be installed, version ~ 3.6.3
 
 **How to run:**
 a. **Run in an IDE**
@@ -24,8 +11,23 @@ b. **Run from cmd/git bash**
   Run this jar file with command: java -jar british-spoken-time-1.0-SNAPSHOT-shaded.jar.
 
   # Project Name
+British Spoken Time
 
-Short description of the project.
+## Problem Statement
+In British English, the expression "half [hour]" is used colloquially to denote 30 minutes past the hour. For example, " half ten" means 10:30 
+(without specifying morning or night). This is itself an abbreviation of an older colloquialism, "half 'past' ten". The abbreviation can cause misunderstanding with 
+non-British English speakers as this contrasts with many European languages, where the same type of expression denotes 30 minutes before the hour. 
+For example, in Czech, půl desáté ("half ten") means 9:30. Another example, in German, halb zehn ("half ten") means 9:30. 
+
+## Solution
+
+The solution takes input in HH:MM format and output is in words.
+For example, if input is 4:15, output will be qaurter past four.
+
+## Prerequisite to run this project
+
+a. Atleast Java 8 
+b. Maven should be installed, version ~ 3.6.3
 
 ## Installation
 
