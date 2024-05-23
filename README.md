@@ -26,7 +26,7 @@ For example, if input is 4:15, output will be qaurter past four.
 
 ## Prerequisite to run this project
 
-a. Atleast Java 8 
+a. Atleast Java 8  
 b. Maven should be installed, version ~ 3.6.3
 
 ## Installation
