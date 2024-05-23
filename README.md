@@ -1,15 +1,3 @@
-
-**How to run:**
-a. **Run in an IDE**
-  Clone the project from github into the IDE.
-  Run the main method from Main.java class
-
-b. **Run from cmd/git bash**
-  Clone the project from github into local system.
-  Open terminal in the same path where pom.xml is and run "mvn clean install".
-  It will create "british-spoken-time-1.0-SNAPSHOT-shaded.jar" in the target directory or can be checked in .m2 repository in the path: ".m2\repository\com\smartbear\british-spoken-time\1.0-SNAPSHOT\"
-  Run this jar file with command: java -jar british-spoken-time-1.0-SNAPSHOT-shaded.jar.
-
   # Project Name
 British Spoken Time
 
@@ -29,27 +17,15 @@ For example, if input is 4:15, output will be qaurter past four.
 a. Atleast Java 8  
 b. Maven should be installed, version ~ 3.6.3
 
-## Installation
+## How to run
 
-Instructions on how to install and set up the project.
+a. **Run in an IDE**  
+ Clone the project from github into the IDE.  
+ Run the main method from Main.java class.  
 
-## Usage
-
-Guidelines on how to use the project, including examples.
-
-## Contributing
-
-Instructions for contributing to the project, such as how to clone the repository, set up a development environment, and submit pull requests.
-
-## License
-
-Specify the license under which the project is distributed.
-
-## Credits
-
-Acknowledge any third-party libraries, resources, or contributors.
-
-## Contact
-
-Provide contact information for questions or feedback.
+b. **Run from cmd/git bash**  
+  Clone the project from github into local system.  
+  Open terminal in the same path where pom.xml is and run "mvn clean install".  
+  It will create "british-spoken-time-1.0-SNAPSHOT-shaded.jar" in the target directory or can be checked in .m2 repository in the path: ".m2\repository\com\smartbear\british-spoken-time\1.0-SNAPSHOT\"  
+  Run this jar file with command: java -jar british-spoken-time-1.0-SNAPSHOT-shaded.jar.
 
